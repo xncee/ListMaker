@@ -1,0 +1,9 @@
+{
+  "length": 8,
+  "lowerCase": true,
+  "upperCase": true,
+  "numbers": true,
+  "specialCharacters": false,
+  "prefix": "",
+  "suffix": ""
+}
