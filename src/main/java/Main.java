@@ -46,7 +46,7 @@ public class Main {
         long start = System.currentTimeMillis();
         makeRandomList(count, length, prefix, suffix);
         long end = System.currentTimeMillis();
-        System.out.println("\nTime: "+(end-start)/1000.0);
+        System.out.println("\nTime: "+(end-start)/1000.0+"s");
     }
     public static void makeRandomList(long count, int length, String prefix, String postfix) {
         StringBuilder str = new StringBuilder();
